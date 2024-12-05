@@ -1,0 +1,7 @@
+Designator,Center-X(mm),Center-Y(mm),Layer,Rotation
+IC1,18.2372mm,53.3908mm,TopLayer,0
+R2,8.9154mm,41.9607mm,TopLayer,180
+R1,8.9154mm,45.7962mm,TopLayer,180
+J1,3.6068mm,49.6062mm,TopLayer,90
+C2,8.4654mm,37.1322mm,TopLayer,180
+C1,8.4654mm,39.0659mm,TopLayer,180

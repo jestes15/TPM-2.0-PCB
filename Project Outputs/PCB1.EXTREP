@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB1.GBR   11/9/2024  9:57:50 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Board                                   
+.gbr                Route Tool Path                         
+.gbr                Dimensions                              
+.gbr                Top 3D Body                             
+.gbr                Bottom 3D Body                          
+.gbr                Top Designator                          
+.gbr                Bottom Designator                       
+.gbr                Top Glue Points                         
+.gbr                Bottom Glue Points                      
+.gbr                Top Coating                             
+.gbr                Bottom Coating                          
+.gbr                Top Assembly                            
+.gbr                Bottom Assembly                         
+.gbr                Top Courtyard                           
+.gbr                Bottom Courtyard                        
+.gbr                Fab Notes                               
+.gbr                Assembly Notes                          
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Dielectric1                             
+.gbr                Multi-Layer                             
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
